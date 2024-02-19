@@ -1,0 +1,7 @@
+import org.apache.hadoop.fs.LocalFileSystem;
+public class FunctionUse13567 {
+public void funcUse() {
+LocalFileSystem localfilesystem = new LocalFileSystem();
+localfilesystem.getRaw();
+}
+}

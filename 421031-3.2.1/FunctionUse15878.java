@@ -1,0 +1,6 @@
+import org.apache.hadoop.util.InstrumentedLock;
+public class FunctionUse15878 {
+public void funcUse() {
+InstrumentedLock instrumentedlock = new InstrumentedLock();
+}
+}

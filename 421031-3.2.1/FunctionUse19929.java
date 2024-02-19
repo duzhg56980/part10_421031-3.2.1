@@ -1,0 +1,6 @@
+import org.apache.hadoop.security.proto.RefreshUserMappingsProtocolProtos.RefreshSuperUserGroupsConfigurationResponseProto;
+public class FunctionUse19929 {
+public void funcUse() {
+RefreshSuperUserGroupsConfigurationResponseProto refreshsuperusergroupsconfigurationresponseproto = new RefreshSuperUserGroupsConfigurationResponseProto();
+}
+}
